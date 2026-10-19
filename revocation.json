@@ -1,7 +1,5 @@
 {
-  "revoked": [
-    "7423420BA3B1E938"
-  ],
-  "updated": "2026-10-19T16:25:08Z",
-  "sig": "jNNvOZbnRi8KNeGdIr6+cByRn5/3ZoNV+4bEedk2YXWOOJu47PTp5gn750EGyfW3OvWX7J5IsiEQk0skeXlLBA=="
+  "revoked": [],
+  "updated": "2026-10-19T16:26:00Z",
+  "sig": "G3jdQovYLhXuNlUFhWAEpHuhfmeYfsYfeQHKuo6S+ZIpvePbeywBkoh3fQTE5n6bNx/sPoXENWrGvoqf8fJPAQ=="
 }
