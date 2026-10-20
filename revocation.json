@@ -1,5 +1,7 @@
 {
-  "revoked": [],
-  "updated": "2026-10-19T19:08:44Z",
-  "sig": "G3jdQovYLhXuNlUFhWAEpHuhfmeYfsYfeQHKuo6S+ZIpvePbeywBkoh3fQTE5n6bNx/sPoXENWrGvoqf8fJPAQ=="
+  "revoked": [
+    "CF7464195A5C6DD5"
+  ],
+  "updated": "2026-10-20T18:07:52Z",
+  "sig": "E4dG3riSvBKR0WE2/JI6r/IkdbwIEit9nXDVKJSSieUiZ9OP8RKiXZ+4VCFsRhz0O7U6BTWN4AsZZxmLprAjBg=="
 }
